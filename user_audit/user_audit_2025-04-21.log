@@ -1,0 +1,646 @@
+
+====[ USER AUDIT REPORT ]====
+
+bin Account is Locked/Disabled.
+daemon Account is Locked/Disabled.
+mail Account is Locked/Disabled.
+ftp Account is Locked/Disabled.
+http Account is Locked/Disabled.
+nobody Account is Locked/Disabled.
+dbus Account is Locked/Disabled.
+systemd-coredump Account is Locked/Disabled.
+systemd-network Account is Locked/Disabled.
+systemd-oom Account is Locked/Disabled.
+systemd-journal-remote Account is Locked/Disabled.
+systemd-resolve Account is Locked/Disabled.
+systemd-timesync Account is Locked/Disabled.
+tss Account is Locked/Disabled.
+uuidd Account is Locked/Disabled.
+_talkd Account is Locked/Disabled.
+avahi Account is Locked/Disabled.
+named Account is Locked/Disabled.
+dnsmasq Account is Locked/Disabled.
+git Account is Locked/Disabled.
+nm-openconnect Account is Locked/Disabled.
+nm-openvpn Account is Locked/Disabled.
+ntp Account is Locked/Disabled.
+openvpn Account is Locked/Disabled.
+polkitd Account is Locked/Disabled.
+rpc Account is Locked/Disabled.
+rpcuser Account is Locked/Disabled.
+rtkit Account is Locked/Disabled.
+nvidia-persistenced Account is Locked/Disabled.
+brltty Account is Locked/Disabled.
+colord Account is Locked/Disabled.
+flatpak Account is Locked/Disabled.
+gdm Account is Locked/Disabled.
+geoclue Account is Locked/Disabled.
+gnome-remote-desktop Account is Locked/Disabled.
+saned Account is Locked/Disabled.
+usbmux Account is Locked/Disabled.
+deepin-sound-player Account is Locked/Disabled.
+dde-dconfig-daemon Account is Locked/Disabled.
+deepin-anything-server Account is Locked/Disabled.
+deepin_anything_server Account is Locked/Disabled.
+deepin-daemon Account is Locked/Disabled.
+lightdm Account is Locked/Disabled.
+sddm Account is Locked/Disabled.
+pihole Account is Locked/Disabled.
+plex Account is Locked/Disabled.
+alpm Account is Locked/Disabled.
+
+*--- Account: gh0st ---*
+Status: 
+Groups: 
+Home Dir: 
+Sudo Status: 
+Last Logged Time: Apr 21
+
+*--- Account: juicyl ---*
+Status: 
+Groups: 
+Home Dir: 
+Sudo Status: 
+Last Logged Time:  
+
+*--- Account: postgres ---*
+Status: 
+Groups: 
+Home Dir: 
+Sudo Status: 
+Last Logged Time:  
+4 Accounts have been found.
+
+
+====[ USER AUDIT REPORT ]====
+
+bin Account is Locked/Disabled.
+daemon Account is Locked/Disabled.
+mail Account is Locked/Disabled.
+ftp Account is Locked/Disabled.
+http Account is Locked/Disabled.
+nobody Account is Locked/Disabled.
+dbus Account is Locked/Disabled.
+systemd-coredump Account is Locked/Disabled.
+systemd-network Account is Locked/Disabled.
+systemd-oom Account is Locked/Disabled.
+systemd-journal-remote Account is Locked/Disabled.
+systemd-resolve Account is Locked/Disabled.
+systemd-timesync Account is Locked/Disabled.
+tss Account is Locked/Disabled.
+uuidd Account is Locked/Disabled.
+_talkd Account is Locked/Disabled.
+avahi Account is Locked/Disabled.
+named Account is Locked/Disabled.
+dnsmasq Account is Locked/Disabled.
+git Account is Locked/Disabled.
+nm-openconnect Account is Locked/Disabled.
+nm-openvpn Account is Locked/Disabled.
+ntp Account is Locked/Disabled.
+openvpn Account is Locked/Disabled.
+polkitd Account is Locked/Disabled.
+rpc Account is Locked/Disabled.
+rpcuser Account is Locked/Disabled.
+rtkit Account is Locked/Disabled.
+nvidia-persistenced Account is Locked/Disabled.
+brltty Account is Locked/Disabled.
+colord Account is Locked/Disabled.
+flatpak Account is Locked/Disabled.
+gdm Account is Locked/Disabled.
+geoclue Account is Locked/Disabled.
+gnome-remote-desktop Account is Locked/Disabled.
+saned Account is Locked/Disabled.
+usbmux Account is Locked/Disabled.
+deepin-sound-player Account is Locked/Disabled.
+dde-dconfig-daemon Account is Locked/Disabled.
+deepin-anything-server Account is Locked/Disabled.
+deepin_anything_server Account is Locked/Disabled.
+deepin-daemon Account is Locked/Disabled.
+lightdm Account is Locked/Disabled.
+sddm Account is Locked/Disabled.
+pihole Account is Locked/Disabled.
+plex Account is Locked/Disabled.
+alpm Account is Locked/Disabled.
+
+*--- Account: gh0st ---*
+Status: 
+Groups: 
+Home Dir: 
+Sudo Status: 
+Last Logged Time: Apr 21
+
+*--- Account: juicyl ---*
+Status: 
+Groups: 
+Home Dir: 
+Sudo Status: 
+Last Logged Time:  
+
+*--- Account: postgres ---*
+Status: Active
+Groups: 
+Home Dir: 
+Sudo Status: 
+Last Logged Time:  
+4 Accounts have been found.
+
+
+====[ USER AUDIT REPORT ]====
+
+bin Account is Locked/Disabled.
+daemon Account is Locked/Disabled.
+mail Account is Locked/Disabled.
+ftp Account is Locked/Disabled.
+http Account is Locked/Disabled.
+nobody Account is Locked/Disabled.
+dbus Account is Locked/Disabled.
+systemd-coredump Account is Locked/Disabled.
+systemd-network Account is Locked/Disabled.
+systemd-oom Account is Locked/Disabled.
+systemd-journal-remote Account is Locked/Disabled.
+systemd-resolve Account is Locked/Disabled.
+systemd-timesync Account is Locked/Disabled.
+tss Account is Locked/Disabled.
+uuidd Account is Locked/Disabled.
+_talkd Account is Locked/Disabled.
+avahi Account is Locked/Disabled.
+named Account is Locked/Disabled.
+dnsmasq Account is Locked/Disabled.
+git Account is Locked/Disabled.
+nm-openconnect Account is Locked/Disabled.
+nm-openvpn Account is Locked/Disabled.
+ntp Account is Locked/Disabled.
+openvpn Account is Locked/Disabled.
+polkitd Account is Locked/Disabled.
+rpc Account is Locked/Disabled.
+rpcuser Account is Locked/Disabled.
+rtkit Account is Locked/Disabled.
+nvidia-persistenced Account is Locked/Disabled.
+brltty Account is Locked/Disabled.
+colord Account is Locked/Disabled.
+flatpak Account is Locked/Disabled.
+gdm Account is Locked/Disabled.
+geoclue Account is Locked/Disabled.
+gnome-remote-desktop Account is Locked/Disabled.
+saned Account is Locked/Disabled.
+usbmux Account is Locked/Disabled.
+deepin-sound-player Account is Locked/Disabled.
+dde-dconfig-daemon Account is Locked/Disabled.
+deepin-anything-server Account is Locked/Disabled.
+deepin_anything_server Account is Locked/Disabled.
+deepin-daemon Account is Locked/Disabled.
+lightdm Account is Locked/Disabled.
+sddm Account is Locked/Disabled.
+pihole Account is Locked/Disabled.
+plex Account is Locked/Disabled.
+alpm Account is Locked/Disabled.
+
+*--- Account: gh0st ---*
+Status: Inactive
+Groups: 
+Home Dir: 
+Sudo Status: 
+Last Logged Time: Apr 21
+
+*--- Account: juicyl ---*
+Status: Inactive
+Groups: 
+Home Dir: 
+Sudo Status: 
+Last Logged Time:  
+
+*--- Account: postgres ---*
+Status: Inactive
+Groups: 
+Home Dir: 
+Sudo Status: 
+Last Logged Time:  
+4 Accounts have been found.
+
+
+====[ USER AUDIT REPORT ]====
+
+bin Account is Locked/Disabled.
+daemon Account is Locked/Disabled.
+mail Account is Locked/Disabled.
+ftp Account is Locked/Disabled.
+http Account is Locked/Disabled.
+nobody Account is Locked/Disabled.
+dbus Account is Locked/Disabled.
+systemd-coredump Account is Locked/Disabled.
+systemd-network Account is Locked/Disabled.
+systemd-oom Account is Locked/Disabled.
+systemd-journal-remote Account is Locked/Disabled.
+systemd-resolve Account is Locked/Disabled.
+systemd-timesync Account is Locked/Disabled.
+tss Account is Locked/Disabled.
+uuidd Account is Locked/Disabled.
+_talkd Account is Locked/Disabled.
+avahi Account is Locked/Disabled.
+named Account is Locked/Disabled.
+dnsmasq Account is Locked/Disabled.
+git Account is Locked/Disabled.
+nm-openconnect Account is Locked/Disabled.
+nm-openvpn Account is Locked/Disabled.
+ntp Account is Locked/Disabled.
+openvpn Account is Locked/Disabled.
+polkitd Account is Locked/Disabled.
+rpc Account is Locked/Disabled.
+rpcuser Account is Locked/Disabled.
+rtkit Account is Locked/Disabled.
+nvidia-persistenced Account is Locked/Disabled.
+brltty Account is Locked/Disabled.
+colord Account is Locked/Disabled.
+flatpak Account is Locked/Disabled.
+gdm Account is Locked/Disabled.
+geoclue Account is Locked/Disabled.
+gnome-remote-desktop Account is Locked/Disabled.
+saned Account is Locked/Disabled.
+usbmux Account is Locked/Disabled.
+deepin-sound-player Account is Locked/Disabled.
+dde-dconfig-daemon Account is Locked/Disabled.
+deepin-anything-server Account is Locked/Disabled.
+deepin_anything_server Account is Locked/Disabled.
+deepin-daemon Account is Locked/Disabled.
+lightdm Account is Locked/Disabled.
+sddm Account is Locked/Disabled.
+pihole Account is Locked/Disabled.
+plex Account is Locked/Disabled.
+alpm Account is Locked/Disabled.
+
+*--- Account: gh0st ---*
+Status: 
+Groups: 
+Home Dir: 
+Sudo Status: 
+Last Logged Time: Apr 21
+
+*--- Account: juicyl ---*
+Status: 
+Groups: 
+Home Dir: 
+Sudo Status: 
+Last Logged Time:  
+
+*--- Account: postgres ---*
+Status: Active
+Groups: 
+Home Dir: 
+Sudo Status: 
+Last Logged Time:  
+4 Accounts have been found.
+
+
+====[ USER AUDIT REPORT ]====
+
+bin Account is Locked/Disabled.
+daemon Account is Locked/Disabled.
+mail Account is Locked/Disabled.
+ftp Account is Locked/Disabled.
+http Account is Locked/Disabled.
+nobody Account is Locked/Disabled.
+dbus Account is Locked/Disabled.
+systemd-coredump Account is Locked/Disabled.
+systemd-network Account is Locked/Disabled.
+systemd-oom Account is Locked/Disabled.
+systemd-journal-remote Account is Locked/Disabled.
+systemd-resolve Account is Locked/Disabled.
+systemd-timesync Account is Locked/Disabled.
+tss Account is Locked/Disabled.
+uuidd Account is Locked/Disabled.
+_talkd Account is Locked/Disabled.
+avahi Account is Locked/Disabled.
+named Account is Locked/Disabled.
+dnsmasq Account is Locked/Disabled.
+git Account is Locked/Disabled.
+nm-openconnect Account is Locked/Disabled.
+nm-openvpn Account is Locked/Disabled.
+ntp Account is Locked/Disabled.
+openvpn Account is Locked/Disabled.
+polkitd Account is Locked/Disabled.
+rpc Account is Locked/Disabled.
+rpcuser Account is Locked/Disabled.
+rtkit Account is Locked/Disabled.
+nvidia-persistenced Account is Locked/Disabled.
+brltty Account is Locked/Disabled.
+colord Account is Locked/Disabled.
+flatpak Account is Locked/Disabled.
+gdm Account is Locked/Disabled.
+geoclue Account is Locked/Disabled.
+gnome-remote-desktop Account is Locked/Disabled.
+saned Account is Locked/Disabled.
+usbmux Account is Locked/Disabled.
+deepin-sound-player Account is Locked/Disabled.
+dde-dconfig-daemon Account is Locked/Disabled.
+deepin-anything-server Account is Locked/Disabled.
+deepin_anything_server Account is Locked/Disabled.
+deepin-daemon Account is Locked/Disabled.
+lightdm Account is Locked/Disabled.
+sddm Account is Locked/Disabled.
+pihole Account is Locked/Disabled.
+plex Account is Locked/Disabled.
+alpm Account is Locked/Disabled.
+
+*--- Account: gh0st ---*
+Status: 
+Groups: 
+Home Dir: 
+Sudo Status: 
+Last Logged Time: Apr 21
+
+*--- Account: juicyl ---*
+Status: 
+Groups: 
+Home Dir: 
+Sudo Status: 
+Last Logged Time:  
+
+*--- Account: postgres ---*
+Status: Active
+Groups: 
+Home Dir: 
+Sudo Status: 
+Last Logged Time:  
+4 Accounts have been found.
+
+
+====[ USER AUDIT REPORT ]====
+
+bin Account is Locked/Disabled.
+daemon Account is Locked/Disabled.
+mail Account is Locked/Disabled.
+ftp Account is Locked/Disabled.
+http Account is Locked/Disabled.
+nobody Account is Locked/Disabled.
+dbus Account is Locked/Disabled.
+systemd-coredump Account is Locked/Disabled.
+systemd-network Account is Locked/Disabled.
+systemd-oom Account is Locked/Disabled.
+systemd-journal-remote Account is Locked/Disabled.
+systemd-resolve Account is Locked/Disabled.
+systemd-timesync Account is Locked/Disabled.
+tss Account is Locked/Disabled.
+uuidd Account is Locked/Disabled.
+_talkd Account is Locked/Disabled.
+avahi Account is Locked/Disabled.
+named Account is Locked/Disabled.
+dnsmasq Account is Locked/Disabled.
+git Account is Locked/Disabled.
+nm-openconnect Account is Locked/Disabled.
+nm-openvpn Account is Locked/Disabled.
+ntp Account is Locked/Disabled.
+openvpn Account is Locked/Disabled.
+polkitd Account is Locked/Disabled.
+rpc Account is Locked/Disabled.
+rpcuser Account is Locked/Disabled.
+rtkit Account is Locked/Disabled.
+nvidia-persistenced Account is Locked/Disabled.
+brltty Account is Locked/Disabled.
+colord Account is Locked/Disabled.
+flatpak Account is Locked/Disabled.
+gdm Account is Locked/Disabled.
+geoclue Account is Locked/Disabled.
+gnome-remote-desktop Account is Locked/Disabled.
+saned Account is Locked/Disabled.
+usbmux Account is Locked/Disabled.
+deepin-sound-player Account is Locked/Disabled.
+dde-dconfig-daemon Account is Locked/Disabled.
+deepin-anything-server Account is Locked/Disabled.
+deepin_anything_server Account is Locked/Disabled.
+deepin-daemon Account is Locked/Disabled.
+lightdm Account is Locked/Disabled.
+sddm Account is Locked/Disabled.
+pihole Account is Locked/Disabled.
+plex Account is Locked/Disabled.
+alpm Account is Locked/Disabled.
+
+*--- Account: gh0st ---*
+Status: 
+Groups: 
+Home Dir: 
+Sudo Status: 
+Last Logged Time: Apr 21
+
+*--- Account: juicyl ---*
+Status: 
+Groups: 
+Home Dir: 
+Sudo Status: 
+Last Logged Time:  
+
+*--- Account: postgres ---*
+Status: Active
+Groups: 
+Home Dir: 
+Sudo Status: 
+Last Logged Time:  
+4 Accounts have been found.
+
+
+====[ USER AUDIT REPORT ]====
+
+
+*--- Account: gh0st ---*
+Status: 
+Groups: 
+Home Dir: 
+Sudo Status: 
+Last Logged Time: Apr 21
+
+*--- Account: juicyl ---*
+Status: 
+Groups: 
+Home Dir: 
+Sudo Status: 
+Last Logged Time:  
+
+*--- Account: postgres ---*
+Status: Active
+Groups: 
+Home Dir: 
+Sudo Status: 
+Last Logged Time:  
+4 Accounts have been found.
+
+
+====[ USER AUDIT REPORT ]====
+
+
+*--- Account: gh0st ---*
+Status: 
+Groups: 
+Home Dir: 
+Sudo Status: 
+Last Logged Time: Apr 21
+
+*--- Account: juicyl ---*
+Status: 
+Groups: 
+Home Dir: 
+Sudo Status: 
+Last Logged Time:  
+
+*--- Account: postgres ---*
+Status: Active
+Groups: 
+Home Dir: 
+Sudo Status: 
+Last Logged Time:  
+4 Accounts have been found.
+
+
+====[ USER AUDIT REPORT ]====
+
+
+*--- Account: gh0st ---*
+Status: 
+Groups: 
+Home Dir: 
+Sudo Status: 
+Last Logged Time: Apr 21
+
+*--- Account: juicyl ---*
+Status: 
+Groups: 
+Home Dir: 
+Sudo Status: 
+Last Logged Time:  
+
+*--- Account: postgres ---*
+Status: Active
+Groups: 
+Home Dir: 
+Sudo Status: 
+Last Logged Time:  
+4 Accounts have been found.
+
+
+====[ USER AUDIT REPORT ]====
+
+
+*--- Account: gh0st ---*
+Status: Active
+Groups: 
+Home Dir: 
+Sudo Status: 
+Last Logged Time: Apr 21
+
+*--- Account: juicyl ---*
+Status: Active
+Groups: 
+Home Dir: 
+Sudo Status: 
+Last Logged Time:  
+
+*--- Account: postgres ---*
+Status: Active
+Groups: 
+Home Dir: 
+Sudo Status: 
+Last Logged Time:  
+4 Accounts have been found.
+
+
+====[ USER AUDIT REPORT ]====
+
+
+*--- Account: gh0st ---*
+Status: Active
+Groups: 
+Home Dir: 
+Sudo Status: 
+Last Logged Time: Apr 21
+
+*--- Account: juicyl ---*
+Status: Active
+Groups: 
+Home Dir: 
+Sudo Status: 
+Last Logged Time:  
+
+*--- Account: postgres ---*
+Status: Active
+Groups: 
+Home Dir: 
+Sudo Status: 
+Last Logged Time:  
+4 Accounts have been found.
+
+
+====[ USER AUDIT REPORT ]====
+
+
+*--- Account: gh0st ---*
+Status: Inactive
+Groups: 
+Home Dir: 
+Sudo Status: 
+Last Logged Time: Apr 21
+
+*--- Account: juicyl ---*
+Status: Inactive
+Groups: 
+Home Dir: 
+Sudo Status: 
+Last Logged Time:  
+
+*--- Account: postgres ---*
+Status: Inactive
+Groups: 
+Home Dir: 
+Sudo Status: 
+Last Logged Time:  
+4 Accounts have been found.
+
+
+====[ USER AUDIT REPORT ]====
+
+
+*--- Account: gh0st ---*
+Status: Active
+Groups: 
+Home Dir: 
+Sudo Status: 
+Last Logged Time: Apr 21
+
+*--- Account: juicyl ---*
+Status: Active
+Groups: 
+Home Dir: 
+Sudo Status: 
+Last Logged Time:  
+
+*--- Account: postgres ---*
+Status: Active
+Groups: 
+Home Dir: 
+Sudo Status: 
+Last Logged Time:  
+4 Accounts have been found.
+
+
+====[ USER AUDIT REPORT ]====
+
+
+*--- Account: gh0st ---*
+Status: Inactive
+Groups: 
+Home Dir: 
+Sudo Status: 
+Last Logged Time: Apr 21
+
+*--- Account: juicyl ---*
+Status: Inactive
+Groups: 
+Home Dir: 
+Sudo Status: 
+Last Logged Time:  
+
+*--- Account: postgres ---*
+Status: Inactive
+Groups: 
+Home Dir: 
+Sudo Status: 
+Last Logged Time:  
+4 Accounts have been found.
+
